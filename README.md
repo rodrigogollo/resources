@@ -113,6 +113,9 @@ These are great resources i've gathered on the internet about software developme
 - [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI) - Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions by codeSTACKr.
 - [Typing Practice](https://www.keybr.com/) - 
 
+Podcasts
+- [JS Party](https://changelog.com/jsparty) - A weekly celebration of JavaScript and the web.
+- [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers by Wes Bos.
 
 
 
