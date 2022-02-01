@@ -113,11 +113,17 @@ These are great resources i've gathered on the internet about software developme
 - [Next Level GitHub Profile README](https://www.youtube.com/watch?v=ECuqb5Tv9qI) - Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions by codeSTACKr.
 - [Typing Practice](https://www.keybr.com/) - 
 
-Podcasts
+## Podcasts
 - [JS Party](https://changelog.com/jsparty) - A weekly celebration of JavaScript and the web.
 - [Syntax](https://syntax.fm/) - A Tasty Treats Podcast for Web Developers by Wes Bos.
 
 
+## Interview prep
+- [How to Get More Interviews, More Job Offers, and Even a Raise](https://zerotomastery.io/blog/how-to-interview-land-a-job-and-get-a-raise/) - by Andrei Neagoie (Zero to Mastery)
+- [Ten Rules for Negotiating a Job Offer](https://haseebq.com/my-ten-rules-for-negotiating-a-job-offer/) - 
+- [Coding Interview University](https://github.com/jwasham/coding-interview-university) - This is my multi-month study plan for becoming a software engineer for a large company.
 
-
+## Job Searching 
+- [Remote OK](https://remoteok.com/) - Work anywhere live anywhere.
+- [StackOverflow Jobs](https://stackoverflow.com/jobs) - Stack Overflow jobs board.
 
