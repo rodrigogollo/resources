@@ -12,6 +12,18 @@ These are great resources i've gathered on the internet about software developme
 - [React JS Crash Course](https://www.youtube.com/watch?v=w7ejDZ8SWv8) - by Traversy Media.
 - [Let's Learn React! (with Ali Spittel) — Learn With Jason](https://youtu.be/w4kMM96ohDc?list=PLz8Iz-Fnk_eTpvd49Sa77NiF8Uqq5Iykx) - React Introduction
 
+FREE React Courses
+- [React Fundamentals](https://www.udemy.com/course/react-fundamentals/) 
+- [React and Redux Masterclass](https://www.udemy.com/course/learning-react-and-redux-decoupling-with-stateless-components/)
+- [Code 15 React Projects - Complete Course](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+- [React JS Frontend Web Development for Beginners](https://www.udemy.com/course/react-tutorial/)
+- [React Hooks and Context (with React-Redux migration guide)](https://www.udemy.com/course/react-hooks-with-react-redux-migration/)
+- [React with Redux, React-Router, Hooks and Auth0](https://www.udemy.com/course/modern-react/)
+- [Building Applications with React and Flux](https://www.pluralsight.com/courses/react-flux-building-applications)
+- [Front-End Web Development with React](https://www.coursera.org/learn/front-end-react)
+
+
+
 ### Udemy 
 - The Complete Web Developer 2022 - Andre Neagoie
 - The Web Developer Bootcamp 2022 - Colt Steele
